@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### Introduction
+
+My Name is Savar Shrestha and I'm currently a Computer Science student at Kent State University.
+
+Checkout my repositories to see what I've made so far 🙂.
 <!--
 **moonshadow2/moonshadow2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
